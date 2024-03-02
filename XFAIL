@@ -6,11 +6,12 @@
 # This file contains all "expected failures" that rlgl will give a
 # pass on.
 
-{ "result": "FAIL", "id": "h006" }
-{ "result": "FAIL", "id": "h007" }
-{ "result": "FAIL", "id": "h008" }
-{ "result": "FAIL", "id": "h009" }
-{ "result": "FAIL", "id": "h010" }
-{ "result": "FAIL", "id": "h011" }
-{ "result": "FAIL", "id": "h012" }
-{ "result": "FAIL", "id": "h013" }
+{ "result": "FAIL", "id": "aaa/h006.java execution test" }
+{ "result": "FAIL", "id": "aaa/h007.java execution test" }
+{ "result": "FAIL", "id": "aaa/h008.java execution test" }
+{ "result": "FAIL", "id": "aaa/h009.java execution test" }
+{ "result": "FAIL", "id": "aaa/h010.java execution test" }
+{ "result": "FAIL", "id": "aaa/h011.java execution test" }
+{ "result": "FAIL", "id": "aaa/h012.java execution test" }
+{ "result": "FAIL", "id": "aaa/h014.java execution test" }
+{ "result": "FAIL", "id": "aaa/h015.java execution test" }
